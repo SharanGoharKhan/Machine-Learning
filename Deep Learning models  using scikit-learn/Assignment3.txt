@@ -1,0 +1,4 @@
+Assignment 3 : Implementation of Neural Network SCIKIT-LEARN
+Your goal in this assignment is to implement Neural network using Scikit-learn. Example code is attached. Marks will be awarded on the basis of achieved accuracy. Play with different hyper parameters to achieve high accuracy. 
+
+Update: Use wines dataset for running your experiments
